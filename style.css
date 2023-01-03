@@ -1,0 +1,39 @@
+html {
+  font-size: 20px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: "Kosugi", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 25px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #7DE7B2;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539f;
+  text-shadow: 2px 6px 8px darkred;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
